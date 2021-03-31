@@ -1,0 +1,20 @@
+.hero-banner {
+    background-image: url('https://image.freepik.com/free-photo/delicious-healthy-asian-food-black-textured-background-with-copy-space_24972-1019.jpg');
+    background-size: cover;
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.harga {
+    font-weight: bold;
+}
+
+.section-title {
+    color: #0d6efd;
+}
+
+.footer {
+    height: 50px;
+}
+
